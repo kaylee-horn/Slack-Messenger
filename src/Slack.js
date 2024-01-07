@@ -1,5 +1,5 @@
 import * as React from 'react';
-import myName from './img/myname.jpeg';
+import myName from './myname.jpeg';
 import Button from 'react-bootstrap/Button';
 import Image from 'react-bootstrap/Image'
 import Container from 'react-bootstrap/Container';
